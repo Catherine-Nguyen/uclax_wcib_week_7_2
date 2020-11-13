@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  align-content: center;
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: helvetica, arial, sans-serif; }
+  body .animal {
+    width: full;
+    height: auto;
+    align-items: center; }
+  body .center {
+    padding: 70px 0;
+    text-align: center; }
+  body .flex-container {
+    align-content: flex-end;
+    align-items: center; }
+  body .flex-container > div {
+    width: 100px;
+    margin: 10px;
+    line-height: 75px; }
